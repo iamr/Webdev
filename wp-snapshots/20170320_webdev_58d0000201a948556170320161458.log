@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-03-20 16:15:33
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.1.34
+WORDPRESS:	4.7.3
+PHP INFO:	7.1.1 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 2MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20170320_webdev_58d0000201a948556170320161458_database.sql 
+SQL FILE SIZE: 332.48KB (340456) 
+SQL FILE TIME: 2017-03-20 16:15:33 
+SQL RUNTIME: 0.49 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Users/iMacRoy/Dropbox (Catapult)/Webdev 
+ARCHIVE FILE: 20170320_webdev_58d0000201a948556170320161458_archive.zip 
+FILTERS: *OFF* 
+DIRS: not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	92.36MB 
+STATS:	Dirs 1,101 | Files 6,959 
+SQL ADDED: 20170320_webdev_58d0000201a948556170320161458_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 8060
+    [filename] => /Users/iMacRoy/Dropbox (Catapult)/Webdev/wp-snapshots/tmp/20170320_webdev_58d0000201a948556170320161458_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 43.24MB 
+ARCHIVE RUNTIME: 149.04 sec. 
+MEMORY STACK: 6MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/Users/iMacRoy/Dropbox (Catapult)/Webdev/wp-snapshots/tmp/20170320_webdev_58d0000201a948556170320161458_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 332.48KB 
+Installer File: 394.69KB 
+Archive File: 43.24MB  
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 152.10 sec.
+PEAK PHP MEMORY USED: 6MB
+DONE PROCESSING => 20170320_webdev 2017-03-20 16:18:05
+ 

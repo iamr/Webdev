@@ -1,0 +1,119 @@
+{"event":"details","time":1490001269,"u":"25","run":"0.27","mem":"18.38","data":"----- Initiating master send function for BackupBuddy v7.3.0.4 for basename file: `backup-webdev_8888-2017_03_17-02_55pm-full-t5ctgu1g1m.zip`. Post-send deletion: 1"}
+{"event":"details","time":1490001269,"u":"28","run":"0.30","mem":"18.38","data":"Created fileoptions lock file `send-2ifwn5y2tpzd.txt.lock` with ID: 58cf9d75450a84.00119589."}
+{"event":"details","time":1490001269,"u":"34","run":"0.36","mem":"18.38","data":"Fileoptions load using 0 MB of memory."}
+{"event":"details","time":1490001269,"u":"41","run":"0.43","mem":"18.39","data":"Fileoptions `send-2ifwn5y2tpzd.txt` saved. 1512 bytes written."}
+{"event":"details","time":1490001269,"u":"45","run":"0.47","mem":"18.38","data":"Initializing destination."}
+{"event":"details","time":1490001269,"u":"48","run":"0.51","mem":"18.38","data":"Loading destination init file `\/Users\/iMacRoy\/Dropbox (Catapult)\/Webdev\/wp-content\/plugins\/backupbuddy\/destinations\/stash2\/init.php`."}
+{"event":"details","time":1490001269,"u":"52","run":"0.54","mem":"18.44","data":"Destination init loaded."}
+{"event":"details","time":1490001269,"u":"55","run":"0.57","mem":"18.44","data":"Initialized `stash2` destination."}
+{"event":"details","time":1490001269,"u":"58","run":"0.60","mem":"18.44","data":"Applying destination-specific defaults."}
+{"event":"details","time":1490001269,"u":"61","run":"0.63","mem":"18.44","data":"Applying global destination defaults."}
+{"event":"details","time":1490001269,"u":"64","run":"0.66","mem":"18.44","data":"Calling destination-specific send method."}
+{"event":"details","time":1490001269,"u":"67","run":"0.69","mem":"18.44","data":"Starting Stash2 send()."}
+{"event":"details","time":1490001269,"u":"71","run":"0.73","mem":"18.58","data":"Detecting backup type if possible."}
+{"event":"details","time":1490001269,"u":"73","run":"0.76","mem":"18.58","data":"Detected backup type as `full` via filename."}
+{"event":"details","time":1490001270,"u":"57","run":"1.59","mem":"18.83","data":"Starting S32 send()."}
+{"event":"details","time":1490001270,"u":"59","run":"1.61","mem":"19.23","data":"Using bundled cacert.pem file based on destination settings."}
+{"event":"details","time":1490001270,"u":"62","run":"1.65","mem":"20.71","data":"Guzzle client cainfo: `\/Users\/iMacRoy\/Dropbox (Catapult)\/Webdev\/wp-content\/plugins\/backupbuddy\/destinations\/_s3lib2\/Guzzle\/Http\/Resources\/cacert.pem`. capath: `n\/a`."}
+{"event":"details","time":1490001270,"u":"66","run":"1.68","mem":"21.03","data":"File size of `42.78 MB`."}
+{"event":"details","time":1490001270,"u":"68","run":"1.71","mem":"21.03","data":"Initiating multipart transfer."}
+{"event":"details","time":1490001271,"u":"60","run":"2.63","mem":"22.09","data":"Initiated multipart upload with ID `hRIpREMlSoo.kfn222.AFybZ4pAp9M2_3OfG2kCuqme6g_FGBTthYlPMrQmirO_uJVQ78m49tOQwev_nvaBKJCJP6U_NL324kABNiPhsh4iEydI_VfgDgSzEGdgFNTrwHrFUGrBcarhIXyr3WXCk6w--`."}
+{"event":"details","time":1490001271,"u":"63","run":"2.65","mem":"22.09","data":"Detecting backup type if possible."}
+{"event":"details","time":1490001271,"u":"66","run":"2.68","mem":"22.09","data":"Detected backup type as `full` via filename."}
+{"event":"details","time":1490001271,"u":"69","run":"2.71","mem":"22.10","data":"Multipart initiated; passing over to send first chunk this run. Burst size: `10 MB`."}
+{"event":"details","time":1490001271,"u":"72","run":"2.74","mem":"22.09","data":"Max time not set in settings so detecting server max PHP runtime."}
+{"event":"details","time":1490001271,"u":"75","run":"2.78","mem":"22.09","data":"Using max runtime: `30`."}
+{"event":"details","time":1490001271,"u":"76","run":"2.78","mem":"22.10","data":"About to read in part contents of part `1` of `5` parts of file `\/Users\/iMacRoy\/Dropbox (Catapult)\/Webdev\/wp-content\/uploads\/backupbuddy_backups\/backup-webdev_8888-2017_03_17-02_55pm-full-t5ctgu1g1m.zip` to remote location `AfiLIVDctWSgjlSV\/dMclR955ghfasrkrZeA6Z8tqkgCsFQcT` with multipart ID `hRIpREMlSoo.kfn222.AFybZ4pAp9M2_3OfG2kCuqme6g_FGBTthYlPMrQmirO_uJVQ78m49tOQwev_nvaBKJCJP6U_NL324kABNiPhsh4iEydI_VfgDgSzEGdgFNTrwHrFUGrBcarhIXyr3WXCk6w--`."}
+{"event":"details","time":1490001273,"u":"14","run":"4.16","mem":"32.11","data":"Beginning upload."}
+{"event":"details","time":1490001277,"u":"44","run":"8.46","mem":"32.23","data":"Success sending chunk. Enable full logging for upload result details."}
+{"event":"details","time":1490001277,"u":"46","run":"8.48","mem":"32.23","data":"Uploaded size this burst: `10 MB`, Start time: `1490001271.76`. Finish time: `1490001277.46`. Elapsed: `5.70119786263`. Speed: `1.75 MB`\/sec."}
+{"event":"details","time":1490001277,"u":"47","run":"8.49","mem":"32.23","data":"About to load fileoptions data."}
+{"event":"details","time":1490001277,"u":"49","run":"8.51","mem":"32.23","data":"Fileoptions instance #10."}
+{"event":"details","time":1490001277,"u":"50","run":"8.53","mem":"32.23","data":"Created fileoptions lock file `send-2ifwn5y2tpzd.txt.lock` with ID: 58cf9d7d7c7864.92911912."}
+{"event":"details","time":1490001277,"u":"58","run":"8.60","mem":"32.23","data":"Fileoptions load using 0 MB of memory."}
+{"event":"details","time":1490001277,"u":"63","run":"8.65","mem":"32.23","data":"Fileoptions data loaded."}
+{"event":"details","time":1490001277,"u":"68","run":"8.70","mem":"32.23","data":"S3 multipart upload has more parts left."}
+{"event":"details","time":1490001277,"u":"80","run":"8.82","mem":"32.23","data":"Not approaching limits. Proceeding to next burst this run."}
+{"event":"details","time":1490001277,"u":"84","run":"8.86","mem":"32.24","data":"Fileoptions `send-2ifwn5y2tpzd.txt` saved. 1740 bytes written."}
+{"event":"details","time":1490001278,"u":"03","run":"9.05","mem":"32.24","data":"About to read in part contents of part `2` of `5` parts of file `\/Users\/iMacRoy\/Dropbox (Catapult)\/Webdev\/wp-content\/uploads\/backupbuddy_backups\/backup-webdev_8888-2017_03_17-02_55pm-full-t5ctgu1g1m.zip` to remote location `AfiLIVDctWSgjlSV\/dMclR955ghfasrkrZeA6Z8tqkgCsFQcT` with multipart ID `hRIpREMlSoo.kfn222.AFybZ4pAp9M2_3OfG2kCuqme6g_FGBTthYlPMrQmirO_uJVQ78m49tOQwev_nvaBKJCJP6U_NL324kABNiPhsh4iEydI_VfgDgSzEGdgFNTrwHrFUGrBcarhIXyr3WXCk6w--`."}
+{"event":"details","time":1490001278,"u":"35","run":"9.37","mem":"32.24","data":"Beginning upload."}
+{"event":"details","time":1490001282,"u":"13","run":"13.15","mem":"32.24","data":"Success sending chunk. Enable full logging for upload result details."}
+{"event":"details","time":1490001282,"u":"16","run":"13.19","mem":"32.24","data":"Uploaded size this burst: `10 MB`, Start time: `1490001278.03`. Finish time: `1490001282.17`. Elapsed: `4.13791894913`. Speed: `2.42 MB`\/sec."}
+{"event":"details","time":1490001282,"u":"18","run":"13.20","mem":"32.24","data":"fileoptions already loaded from prior pass."}
+{"event":"details","time":1490001282,"u":"23","run":"13.25","mem":"32.24","data":"S3 multipart upload has more parts left."}
+{"event":"details","time":1490001282,"u":"24","run":"13.26","mem":"32.24","data":"Not approaching limits. Proceeding to next burst this run."}
+{"event":"details","time":1490001282,"u":"29","run":"13.31","mem":"32.24","data":"Fileoptions `send-2ifwn5y2tpzd.txt` saved. 1740 bytes written."}
+{"event":"details","time":1490001282,"u":"31","run":"13.33","mem":"32.24","data":"About to read in part contents of part `3` of `5` parts of file `\/Users\/iMacRoy\/Dropbox (Catapult)\/Webdev\/wp-content\/uploads\/backupbuddy_backups\/backup-webdev_8888-2017_03_17-02_55pm-full-t5ctgu1g1m.zip` to remote location `AfiLIVDctWSgjlSV\/dMclR955ghfasrkrZeA6Z8tqkgCsFQcT` with multipart ID `hRIpREMlSoo.kfn222.AFybZ4pAp9M2_3OfG2kCuqme6g_FGBTthYlPMrQmirO_uJVQ78m49tOQwev_nvaBKJCJP6U_NL324kABNiPhsh4iEydI_VfgDgSzEGdgFNTrwHrFUGrBcarhIXyr3WXCk6w--`."}
+{"event":"details","time":1490001282,"u":"82","run":"13.85","mem":"32.24","data":"Beginning upload."}
+{"event":"details","time":1490001285,"u":"16","run":"16.18","mem":"32.24","data":"Success sending chunk. Enable full logging for upload result details."}
+{"event":"details","time":1490001285,"u":"18","run":"16.20","mem":"32.24","data":"Uploaded size this burst: `10 MB`, Start time: `1490001282.31`. Finish time: `1490001285.18`. Elapsed: `2.87021589279`. Speed: `3.48 MB`\/sec."}
+{"event":"details","time":1490001285,"u":"21","run":"16.23","mem":"32.24","data":"fileoptions already loaded from prior pass."}
+{"event":"details","time":1490001285,"u":"23","run":"16.25","mem":"32.24","data":"S3 multipart upload has more parts left."}
+{"event":"details","time":1490001285,"u":"24","run":"16.26","mem":"32.24","data":"Not approaching limits. Proceeding to next burst this run."}
+{"event":"details","time":1490001285,"u":"30","run":"16.32","mem":"32.24","data":"Fileoptions `send-2ifwn5y2tpzd.txt` saved. 1740 bytes written."}
+{"event":"details","time":1490001285,"u":"31","run":"16.33","mem":"32.24","data":"About to read in part contents of part `4` of `5` parts of file `\/Users\/iMacRoy\/Dropbox (Catapult)\/Webdev\/wp-content\/uploads\/backupbuddy_backups\/backup-webdev_8888-2017_03_17-02_55pm-full-t5ctgu1g1m.zip` to remote location `AfiLIVDctWSgjlSV\/dMclR955ghfasrkrZeA6Z8tqkgCsFQcT` with multipart ID `hRIpREMlSoo.kfn222.AFybZ4pAp9M2_3OfG2kCuqme6g_FGBTthYlPMrQmirO_uJVQ78m49tOQwev_nvaBKJCJP6U_NL324kABNiPhsh4iEydI_VfgDgSzEGdgFNTrwHrFUGrBcarhIXyr3WXCk6w--`."}
+{"event":"details","time":1490001285,"u":"64","run":"16.66","mem":"32.24","data":"Beginning upload."}
+{"event":"details","time":1490001288,"u":"37","run":"19.40","mem":"32.24","data":"Success sending chunk. Enable full logging for upload result details."}
+{"event":"details","time":1490001288,"u":"39","run":"19.41","mem":"32.24","data":"Uploaded size this burst: `10 MB`, Start time: `1490001285.32`. Finish time: `1490001288.39`. Elapsed: `3.07742285728`. Speed: `3.25 MB`\/sec."}
+{"event":"details","time":1490001288,"u":"43","run":"19.45","mem":"32.24","data":"fileoptions already loaded from prior pass."}
+{"event":"details","time":1490001288,"u":"45","run":"19.47","mem":"32.24","data":"S3 multipart upload has more parts left."}
+{"event":"details","time":1490001288,"u":"46","run":"19.48","mem":"32.24","data":"Not approaching limits. Proceeding to next burst this run."}
+{"event":"details","time":1490001288,"u":"50","run":"19.52","mem":"32.24","data":"Fileoptions `send-2ifwn5y2tpzd.txt` saved. 1740 bytes written."}
+{"event":"details","time":1490001288,"u":"51","run":"19.53","mem":"32.24","data":"About to read in part contents of part `5` of `5` parts of file `\/Users\/iMacRoy\/Dropbox (Catapult)\/Webdev\/wp-content\/uploads\/backupbuddy_backups\/backup-webdev_8888-2017_03_17-02_55pm-full-t5ctgu1g1m.zip` to remote location `AfiLIVDctWSgjlSV\/dMclR955ghfasrkrZeA6Z8tqkgCsFQcT` with multipart ID `hRIpREMlSoo.kfn222.AFybZ4pAp9M2_3OfG2kCuqme6g_FGBTthYlPMrQmirO_uJVQ78m49tOQwev_nvaBKJCJP6U_NL324kABNiPhsh4iEydI_VfgDgSzEGdgFNTrwHrFUGrBcarhIXyr3WXCk6w--`."}
+{"event":"details","time":1490001288,"u":"53","run":"19.55","mem":"25.01","data":"Beginning upload."}
+{"event":"details","time":1490001291,"u":"47","run":"22.49","mem":"25.01","data":"Success sending chunk. Enable full logging for upload result details."}
+{"event":"details","time":1490001291,"u":"50","run":"22.53","mem":"25.01","data":"Uploaded size this burst: `2.78 MB`, Start time: `1490001288.52`. Finish time: `1490001291.51`. Elapsed: `2.99201798439`. Speed: `950 KB`\/sec."}
+{"event":"details","time":1490001291,"u":"58","run":"22.60","mem":"25.01","data":"fileoptions already loaded from prior pass."}
+{"event":"details","time":1490001291,"u":"81","run":"22.84","mem":"25.01","data":"Getting etags and notifying of multipart upload completion."}
+{"event":"details","time":1490001292,"u":"16","run":"23.18","mem":"25.04","data":"Server notified of multipart completion."}
+{"event":"details","time":1490001292,"u":"17","run":"23.19","mem":"25.04","data":"Notifying Stash of upload completion."}
+{"event":"error","time":1490001307,"u":"54","run":"38.56","mem":"25.05","data":"Error #389283: Error #3892774: `cURL error 28: Operation timed out after 15000 milliseconds with 0 bytes received` connecting to `https:\/\/stash-api.ithemes.com\/?action=upload-complete&user=iamr&wp=4.7.3&bb=7.3.0.4&site=http%3A%2F%2Fwebdev%3A8888&home=http%3A%2F%2Fwebdev%3A8888&timestamp=1490001292`."}
+{"event":"details","time":1490001307,"u":"69","run":"38.71","mem":"25.04","data":"Scheduled retry attempt to confirm send in `90` seconds."}
+{"event":"details","time":1490001307,"u":"70","run":"38.73","mem":"22.24","data":"cron-kick API call too soon (2 mins ago). Skipping for now."}
+{"event":"details","time":1490001307,"u":"74","run":"38.76","mem":"22.24","data":"Multipart chunk mode completed a pass of the send function. Resuming will be needed. Result: `Array\n(\n    [0] => hRIpREMlSoo.kfn222.AFybZ4pAp9M2_3OfG2kCuqme6g_FGBTthYlPMrQmirO_uJVQ78m49tOQwev_nvaBKJCJP6U_NL324kABNiPhsh4iEydI_VfgDgSzEGdgFNTrwHrFUGrBcarhIXyr3WXCk6w--\n    [1] => Pending multipart send confirmation.\n)\n`."}
+{"event":"details","time":1490001307,"u":"77","run":"38.79","mem":"22.24","data":"Created fileoptions lock file `send-2ifwn5y2tpzd.txt.lock` with ID: 58cf9d9bbdb283.47190940."}
+{"event":"details","time":1490001307,"u":"88","run":"38.90","mem":"22.24","data":"Fileoptions load using 0 MB of memory."}
+{"event":"details","time":1490001307,"u":"90","run":"38.92","mem":"22.25","data":"Fileoptions `send-2ifwn5y2tpzd.txt` saved. 1676 bytes written."}
+{"event":"details","time":1490001307,"u":"92","run":"38.94","mem":"22.24","data":"Next multipart chunk will be processed shortly. Now waiting on its cron..."}
+{"event":"details","time":1490001307,"u":"94","run":"38.96","mem":"22.24","data":"Ending send() function pass."}
+{"event":"details","time":1490001402,"u":"08","run":"0.19","mem":"18.29","data":"----- Initiating master send function for BackupBuddy v7.3.0.4 for basename file: `backup-webdev_8888-2017_03_17-02_55pm-full-t5ctgu1g1m.zip`. Post-send deletion: 1"}
+{"event":"details","time":1490001402,"u":"09","run":"0.21","mem":"18.36","data":"Created fileoptions lock file `send-2ifwn5y2tpzd.txt.lock` with ID: 58cf9dfa183ad5.74284786."}
+{"event":"details","time":1490001402,"u":"21","run":"0.32","mem":"18.36","data":"Fileoptions load using 0.01 MB of memory."}
+{"event":"details","time":1490001402,"u":"24","run":"0.35","mem":"18.37","data":"Fileoptions `send-2ifwn5y2tpzd.txt` saved. 4984 bytes written."}
+{"event":"details","time":1490001402,"u":"26","run":"0.37","mem":"18.36","data":"Initializing destination."}
+{"event":"details","time":1490001402,"u":"27","run":"0.39","mem":"18.36","data":"Loading destination init file `\/Users\/iMacRoy\/Dropbox (Catapult)\/Webdev\/wp-content\/plugins\/backupbuddy\/destinations\/stash2\/init.php`."}
+{"event":"details","time":1490001402,"u":"29","run":"0.40","mem":"18.42","data":"Destination init loaded."}
+{"event":"details","time":1490001402,"u":"31","run":"0.42","mem":"18.42","data":"Initialized `stash2` destination."}
+{"event":"details","time":1490001402,"u":"32","run":"0.43","mem":"18.42","data":"Applying destination-specific defaults."}
+{"event":"details","time":1490001402,"u":"34","run":"0.45","mem":"18.42","data":"Applying global destination defaults."}
+{"event":"details","time":1490001402,"u":"35","run":"0.47","mem":"18.42","data":"Calling destination-specific send method."}
+{"event":"details","time":1490001402,"u":"37","run":"0.48","mem":"18.42","data":"Starting Stash2 send()."}
+{"event":"details","time":1490001402,"u":"39","run":"0.50","mem":"18.56","data":"Starting S32 send()."}
+{"event":"details","time":1490001402,"u":"41","run":"0.52","mem":"18.96","data":"Using bundled cacert.pem file based on destination settings."}
+{"event":"details","time":1490001402,"u":"44","run":"0.55","mem":"20.36","data":"Guzzle client cainfo: `\/Users\/iMacRoy\/Dropbox (Catapult)\/Webdev\/wp-content\/plugins\/backupbuddy\/destinations\/_s3lib2\/Guzzle\/Http\/Resources\/cacert.pem`. capath: `n\/a`."}
+{"event":"details","time":1490001402,"u":"46","run":"0.58","mem":"20.70","data":"Max time not set in settings so detecting server max PHP runtime."}
+{"event":"details","time":1490001402,"u":"49","run":"0.60","mem":"20.70","data":"Using max runtime: `30`."}
+{"event":"details","time":1490001402,"u":"52","run":"0.63","mem":"20.70","data":"About to load fileoptions data."}
+{"event":"details","time":1490001402,"u":"54","run":"0.65","mem":"20.70","data":"Fileoptions instance #10."}
+{"event":"details","time":1490001402,"u":"55","run":"0.66","mem":"20.70","data":"Created fileoptions lock file `send-2ifwn5y2tpzd.txt.lock` with ID: 58cf9dfa87c664.89280521."}
+{"event":"details","time":1490001402,"u":"58","run":"0.70","mem":"20.72","data":"Fileoptions load using 0.01 MB of memory."}
+{"event":"details","time":1490001402,"u":"60","run":"0.71","mem":"20.72","data":"Fileoptions data loaded."}
+{"event":"details","time":1490001404,"u":"63","run":"2.75","mem":"21.10","data":"Stash confirmed upload completition was successful."}
+{"event":"details","time":1490001404,"u":"65","run":"2.76","mem":"21.10","data":"No more parts left for this multipart upload. Clearing multipart instance variables."}
+{"event":"details","time":1490001404,"u":"72","run":"2.83","mem":"21.10","data":"Upload speed average of all chunks: `0 MB`."}
+{"event":"details","time":1490001404,"u":"73","run":"2.85","mem":"21.12","data":"Fileoptions `send-2ifwn5y2tpzd.txt` saved. 4968 bytes written."}
+{"event":"details","time":1490001404,"u":"75","run":"2.86","mem":"21.10","data":"Starting remote archive limiting. Limiting to `0` database and `0` full archives based on destination settings."}
+{"event":"details","time":1490001405,"u":"39","run":"3.51","mem":"21.11","data":"Trimmed remote archives. Results: `Array\n(\n    [dryrun] => \n    [trim_files] => Array\n        (\n        )\n\n    [trim_count] => Array\n        (\n        )\n\n    [original_count] => Array\n        (\n        )\n\n)\n`."}
+{"event":"details","time":1490001405,"u":"41","run":"3.52","mem":"21.00","data":"Completed send function. Success."}
+{"event":"details","time":1490001405,"u":"43","run":"3.54","mem":"21.00","data":"About to load fileoptions data."}
+{"event":"details","time":1490001405,"u":"47","run":"3.58","mem":"21.00","data":"Fileoptions instance #16."}
+{"event":"details","time":1490001405,"u":"48","run":"3.60","mem":"21.01","data":"Created fileoptions lock file `send-2ifwn5y2tpzd.txt.lock` with ID: 58cf9dfd778b89.06890469."}
+{"event":"details","time":1490001405,"u":"52","run":"3.63","mem":"21.02","data":"Fileoptions load using 0.01 MB of memory."}
+{"event":"details","time":1490001405,"u":"53","run":"3.65","mem":"21.02","data":"Fileoptions data loaded."}
+{"event":"details","time":1490001405,"u":"55","run":"3.66","mem":"21.01","data":"Post-send deletion enabled."}
+{"event":"details","time":1490001405,"u":"68","run":"3.79","mem":"21.01","data":"Performing post-send deletion since transfer succeeded."}
+{"event":"details","time":1490001405,"u":"72","run":"3.83","mem":"21.02","data":"Deleting local file `\/Users\/iMacRoy\/Dropbox (Catapult)\/Webdev\/wp-content\/uploads\/backupbuddy_backups\/backup-webdev_8888-2017_03_17-02_55pm-full-t5ctgu1g1m.zip`."}
+{"event":"details","time":1490001405,"u":"83","run":"3.95","mem":"21.01","data":"Deleted local file after successful remote destination send based on settings."}
+{"event":"archiveDeleted","time":1490001405,"u":"85","run":"3.96","mem":"21.01","data":""}
+{"event":"details","time":1490001405,"u":"88","run":"3.99","mem":"21.01","data":"Finished sending email NOT enabled. Skipping."}
+{"event":"details","time":1490001405,"u":"94","run":"4.05","mem":"21.02","data":"Ending send() function pass."}

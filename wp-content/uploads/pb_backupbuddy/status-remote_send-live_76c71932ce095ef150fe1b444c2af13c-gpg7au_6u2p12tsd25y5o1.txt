@@ -1,0 +1,49 @@
+{"event":"details","time":1490001257,"u":"14","run":"23.24","mem":"26.36","data":"----- Initiating master send function for BackupBuddy v7.3.0.4 for basename file: `wd_term_taxonomy.sql`. Post-send deletion: 1"}
+{"event":"details","time":1490001257,"u":"17","run":"23.27","mem":"26.36","data":"Created fileoptions lock file `send-live_76c71932ce095ef150fe1b444c2af13c-gpg7au.txt.lock` with ID: 58cf9d6926bae5.75331211."}
+{"event":"details","time":1490001257,"u":"22","run":"23.32","mem":"26.36","data":"Fileoptions load using 0 MB of memory."}
+{"event":"details","time":1490001257,"u":"26","run":"23.37","mem":"26.37","data":"Fileoptions `send-live_76c71932ce095ef150fe1b444c2af13c-gpg7au.txt` saved. 3132 bytes written."}
+{"event":"details","time":1490001257,"u":"30","run":"23.40","mem":"26.36","data":"Initializing destination."}
+{"event":"details","time":1490001257,"u":"34","run":"23.45","mem":"26.36","data":"Loading destination init file `\/Users\/iMacRoy\/Dropbox (Catapult)\/Webdev\/wp-content\/plugins\/backupbuddy\/destinations\/live\/init.php`."}
+{"event":"details","time":1490001257,"u":"41","run":"23.51","mem":"26.36","data":"Destination init loaded."}
+{"event":"details","time":1490001257,"u":"52","run":"23.62","mem":"26.36","data":"Initialized `live` destination."}
+{"event":"details","time":1490001257,"u":"55","run":"23.65","mem":"26.36","data":"Applying destination-specific defaults."}
+{"event":"details","time":1490001257,"u":"58","run":"23.69","mem":"26.37","data":"Applying global destination defaults."}
+{"event":"details","time":1490001257,"u":"61","run":"23.72","mem":"26.37","data":"Calling destination-specific send method."}
+{"event":"details","time":1490001257,"u":"64","run":"23.75","mem":"26.37","data":"Starting S32 send()."}
+{"event":"details","time":1490001257,"u":"68","run":"23.78","mem":"26.39","data":"Using bundled cacert.pem file based on destination settings."}
+{"event":"details","time":1490001257,"u":"71","run":"23.82","mem":"27.12","data":"Guzzle client cainfo: `\/Users\/iMacRoy\/Dropbox (Catapult)\/Webdev\/wp-content\/plugins\/backupbuddy\/destinations\/_s3lib2\/Guzzle\/Http\/Resources\/cacert.pem`. capath: `n\/a`."}
+{"event":"details","time":1490001257,"u":"74","run":"23.85","mem":"27.14","data":"File size of `932 Bytes`."}
+{"event":"details","time":1490001257,"u":"78","run":"23.88","mem":"27.14","data":"Initiating multipart transfer."}
+{"event":"details","time":1490001258,"u":"24","run":"24.34","mem":"27.15","data":"Initiated multipart upload with ID `Uz5myjcH.5Mc6vfwvbvymm4b_j5gugt24HPCaD14qU4Vnn07CxodBqMQb7gTZPPcMVqc8xrFyl8fKKWtApDv6ifKJPvxV_zj_j..xtmvmz34OU_nzUumcS0uzKtlnmtBZCPTOe7dykIwPRX.e_vxoA--`."}
+{"event":"details","time":1490001258,"u":"27","run":"24.37","mem":"27.16","data":"Multipart initiated; passing over to send first chunk this run. Burst size: `10 MB`."}
+{"event":"details","time":1490001258,"u":"30","run":"24.40","mem":"27.15","data":"Max time not set in settings so detecting server max PHP runtime."}
+{"event":"details","time":1490001258,"u":"33","run":"24.44","mem":"27.15","data":"Using max runtime: `30`."}
+{"event":"details","time":1490001258,"u":"36","run":"24.47","mem":"27.15","data":"About to read in part contents of part `1` of `1` parts of file `\/Users\/iMacRoy\/Dropbox (Catapult)\/Webdev\/wp-content\/uploads\/backupbuddy_temp\/6u2p12tsd25y5o1\/live_db_snapshot\/wd_term_taxonomy.sql` to remote location `AfiLIVDctWSgjlSV\/6c9fca69de664e3a320eff06393f56fa292b95db\/wp-content\/uploads\/backupbuddy_temp\/SERIAL\/wd_term_taxonomy.sql` with multipart ID `Uz5myjcH.5Mc6vfwvbvymm4b_j5gugt24HPCaD14qU4Vnn07CxodBqMQb7gTZPPcMVqc8xrFyl8fKKWtApDv6ifKJPvxV_zj_j..xtmvmz34OU_nzUumcS0uzKtlnmtBZCPTOe7dykIwPRX.e_vxoA--`."}
+{"event":"details","time":1490001258,"u":"45","run":"24.56","mem":"27.16","data":"Beginning upload."}
+{"event":"details","time":1490001258,"u":"58","run":"24.69","mem":"27.16","data":"Success sending chunk. Enable full logging for upload result details."}
+{"event":"details","time":1490001258,"u":"63","run":"24.74","mem":"27.16","data":"Uploaded size this burst: `932 Bytes`, Start time: `1490001258.35`. Finish time: `1490001258.6`. Elapsed: `0.252451896667`. Speed: `4 KB`\/sec."}
+{"event":"details","time":1490001258,"u":"70","run":"24.80","mem":"27.16","data":"About to load fileoptions data."}
+{"event":"details","time":1490001258,"u":"73","run":"24.83","mem":"27.16","data":"Fileoptions instance #10."}
+{"event":"details","time":1490001258,"u":"76","run":"24.87","mem":"27.16","data":"Created fileoptions lock file `send-live_76c71932ce095ef150fe1b444c2af13c-gpg7au.txt.lock` with ID: 58cf9d6ab720f4.46592015."}
+{"event":"details","time":1490001258,"u":"81","run":"24.91","mem":"27.17","data":"Fileoptions load using 0.01 MB of memory."}
+{"event":"details","time":1490001258,"u":"84","run":"24.94","mem":"27.17","data":"Fileoptions data loaded."}
+{"event":"details","time":1490001258,"u":"87","run":"24.97","mem":"27.17","data":"Getting etags and notifying of multipart upload completion."}
+{"event":"details","time":1490001259,"u":"15","run":"25.26","mem":"27.17","data":"Server notified of multipart completion."}
+{"event":"details","time":1490001259,"u":"18","run":"25.29","mem":"27.17","data":"No more parts left for this multipart upload. Clearing multipart instance variables."}
+{"event":"details","time":1490001259,"u":"21","run":"25.32","mem":"27.18","data":"Upload speed average of all chunks: `4 KB`."}
+{"event":"details","time":1490001259,"u":"26","run":"25.37","mem":"27.18","data":"Fileoptions `send-live_76c71932ce095ef150fe1b444c2af13c-gpg7au.txt` saved. 3308 bytes written."}
+{"event":"details","time":1490001259,"u":"29","run":"25.40","mem":"27.14","data":"Saving catalog that file `\/Users\/iMacRoy\/Dropbox (Catapult)\/Webdev\/wp-content\/uploads\/backupbuddy_temp\/6u2p12tsd25y5o1\/live_db_snapshot\/wd_term_taxonomy.sql` has been backed up."}
+{"event":"details","time":1490001259,"u":"32","run":"25.43","mem":"27.15","data":"Fileoptions `tables-6u2p12tsd25y5o1.txt` saved (Live mode). 1835 bytes written."}
+{"event":"details","time":1490001259,"u":"40","run":"25.51","mem":"27.15","data":"Fileoptions `state-6u2p12tsd25y5o1.txt` saved. 3052 bytes written."}
+{"event":"details","time":1490001259,"u":"43","run":"25.54","mem":"27.14","data":"Completed send function. Success."}
+{"event":"details","time":1490001259,"u":"48","run":"25.59","mem":"27.14","data":"About to load fileoptions data."}
+{"event":"details","time":1490001259,"u":"53","run":"25.64","mem":"27.14","data":"Fileoptions instance #16."}
+{"event":"details","time":1490001259,"u":"55","run":"25.65","mem":"27.14","data":"Created fileoptions lock file `send-live_76c71932ce095ef150fe1b444c2af13c-gpg7au.txt.lock` with ID: 58cf9d6b874fa4.83077133."}
+{"event":"details","time":1490001259,"u":"62","run":"25.72","mem":"27.15","data":"Fileoptions load using 0.01 MB of memory."}
+{"event":"details","time":1490001259,"u":"65","run":"25.75","mem":"27.15","data":"Fileoptions data loaded."}
+{"event":"details","time":1490001259,"u":"68","run":"25.78","mem":"27.15","data":"Post-send deletion enabled."}
+{"event":"details","time":1490001259,"u":"71","run":"25.82","mem":"27.15","data":"Performing post-send deletion since transfer succeeded."}
+{"event":"details","time":1490001259,"u":"74","run":"25.85","mem":"27.15","data":"Deleting local file `\/Users\/iMacRoy\/Dropbox (Catapult)\/Webdev\/wp-content\/uploads\/backupbuddy_temp\/6u2p12tsd25y5o1\/live_db_snapshot\/wd_term_taxonomy.sql`."}
+{"event":"details","time":1490001259,"u":"77","run":"25.88","mem":"27.15","data":"Deleted local file after successful remote destination send based on settings."}
+{"event":"archiveDeleted","time":1490001259,"u":"82","run":"25.93","mem":"27.15","data":""}
+{"event":"details","time":1490001259,"u":"85","run":"25.96","mem":"27.15","data":"Ending send() function pass."}
